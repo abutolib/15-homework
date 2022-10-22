@@ -64,6 +64,9 @@ img {
 }
 
 .site-header {
+  position: fixed;
+  width: 100%;
+  z-index: 2;
   background-color: var(--main-bg-color);
   padding: 19px 0;
 }
