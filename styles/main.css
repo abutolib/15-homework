@@ -2363,6 +2363,10 @@ height: 98px;
       margin-bottom: 32px;
     }
 
+    .strategies-item__content{
+      margin-left: 24px;
+    }
+
     .contact{
 
     }
